@@ -1,0 +1,19 @@
+.userMenu {
+    display: flex;
+    gap: 35px;
+}
+
+.link {
+    background-color: #28a745;
+    color: #000;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.active {
+    background-color: #f3066d;
+}
